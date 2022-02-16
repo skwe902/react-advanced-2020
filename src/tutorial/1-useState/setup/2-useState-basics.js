@@ -1,4 +1,5 @@
 import React, { useState } from 'react';
+//hooks start with use
 
 const UseStateBasics = () => {
   // console.log(useState('hello world'))
